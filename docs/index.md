@@ -1,6 +1,5 @@
 # <center> Kevin Shu Too
 ### <center>Contact thru: kevin_l_shutoo@dlsu.edu.ph</center>
-### Link to my: <a href="https://www.linkedin.com/in/kevin-shu-too-b776b233b/" target="_blank">LinkedIn Profile</a>
 
 <br>
 
@@ -271,6 +270,12 @@
 
 <br>
 
+# Contacts
+### Email: kevin_l_shutoo@dlsu.edu.ph
+### Link to my: <a href="https://www.linkedin.com/in/kevin-shu-too-b776b233b/" target="_blank">LinkedIn Profile</a>
+
+<br>
+
 # Personal Collection
 ## A treat for making it this far down!
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
@@ -280,3 +285,10 @@
   <img src="web_imgs/1000119447.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="4" title="Lockdown Custom Animated - Legacy Evolution + Earthrise">
   <img src="web_imgs/1000119448.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="5" title="Alicon - Earthrise">
 </div>
+
+<style>
+  body {
+    background-color: #0e1a2b;
+    color: white;
+  }
+</style>
