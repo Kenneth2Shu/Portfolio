@@ -74,8 +74,9 @@
  - Itch.io link: <a href="https://hollowscapemedia.itch.io/what-lurks-in-the-dark" target="_blank">What Lurks In The Dark</a> <br>
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <video src="Unity/What Lurks In The Dark/Gameplay.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
-  <video src="Unity/What Lurks In The Dark/Teaser.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
+  <img src="web_imgs/unity-essentials-pathway.png" style="width: auto; height: 400px; margin-right: 10px; display: inline-block;" alt="Logo 1"/>
+  <video src="Unity/What Lurks In The Dark/Gameplay.mp4" controls style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/What Lurks In The Dark/Teaser.mp4" controls style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"></video>
 </div>
 
 <br>
@@ -86,21 +87,21 @@
  - Worked on the enemy and bullet scripting
  - Itch.io link: <a href="https://finalspeedz.itch.io/astro-shork" target="_blank">Astro Shork</a> <br>
 
-<img src="Unity/Astro Shork/astro_shork_icon.jpg" width="600px"/>
+<img src="Unity/Astro Shork/astro_shork_icon.jpg" width="400px"/>
 
 <br>
 
 ## Previous Work Experience
+
+<img src="web_imgs/Gamelab_logo.jpg" width="400px"/>
+
 ### DLSU GAME Lab   (2025)
 **Role**: Intern and Lead Engineer
  - Worked on developing an in-house game engine
  - Worked on an AR mobile application as well as conducted user testing
  - Handle management tasks and organization of files
  - Link to: <a href="https://www.facebook.com/DLSUGAMELab" target="_blank">Facebook Page</a> <br>
-<div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="web_imgs/Gamelab_logo.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 1">
-  <img src="web_imgs/523839336_1250226256894412_7717738461423689106_n.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 2">
-</div>
+<img src="web_imgs/523839336_1250226256894412_7717738461423689106_n.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 2">
 
 <br>
 
@@ -129,113 +130,49 @@
 <table>
   <thead>
     <tr>
-      <th colspan="2" style="text-align: center;">CODING LANGUAGES</th>
+      <th colspan="2" style="text-align: center;">Technical Skills</th>
     </tr>
     <tr>
-      <th>Language</th>
-      <th> </th>
+      <th>CODING LANGUAGES</th>
+      <th>GAME ENGINGES</th>
+      <th>OTHER SOFTWARES</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>C#</td>
-      <td>Well-versed in using C# for creating simple to complex games, classes and components, UI, game mechanics, calculations, and data storage</td>
+      <td>Unity</td>
+      <td>Visual Studio Code</td>
     </tr>
     <tr>
       <td>C++</td>
-      <td>Well-versed in using C++ for creating simple games, classes and components, game mechanics, using SFML, and calculations</td>
+      <td>Unreal Engine</td>
+      <td>Visual Studio</td>
     </tr>
     <tr>
       <td>C</td>
-      <td>Has knowledge and experience in using C to create simple 2D or text-based games, using SFML, and data storage</td>
+      <td>Godot</td>
+      <td>GIMP</td>
     </tr>
     <tr>
       <td>HTML</td>
-      <td>Has prior knowledge and experience for designing basic functional websites and webpages</td>
+      <td> </td>
+      <td>AutoCAD</td>
     </tr>
     <tr>
       <td>Python</td>
-      <td>Has prior experience with basic usage for data storage and creating simple text-based games</td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="2" style="text-align: center;">GAME ENGINES</th>
-    </tr>
-    <tr>
-      <th>Engine</th>
-      <th> </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Unity</td>
-      <td>Has worked with Unity engine for various projects and is well-versed in its scripting, animation, AR support, and scene-building</td>
-    </tr>
-    <tr>
-      <td>Unreal Engine</td>
-      <td>Has prior knowledge and experience in using its systems</td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="2" style="text-align: center;">OTHER SOFTWARE</th>
-    </tr>
-    <tr>
-      <th>Software</th>
-      <th> </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Visual Studio Code</td>
-      <td>Main text editor used for coding C, C++, and C#</td>
-    </tr>
-    <tr>
-      <td>Visual Studio</td>
-      <td>Used as a common tool for coding and compiling projects that use C, C++, and C#</td>
-    </tr>
-    <tr>
-      <td>GIMP</td>
-      <td>Has experience using GIMP for photo editing</td>
-    </tr>
-    <tr>
-      <td>AutoCAD</td>
-      <td>Has prior experience used for 2D designs and architecture</td>
-    </tr>
-    <tr>
+      <td> </td>
       <td>3ds Max</td>
-      <td>Has prior experience used for 3D modeling, rigging, and animation</td>
     </tr>
     <tr>
+      <td> </td>
+      <td> </td>
       <td>Photoshop</td>
-      <td>Has prior experience used for photo editing</td>
     </tr>
     <tr>
-      <td>GitHub</td>
-      <td>Frequently used when collaborating with other developers and designers especially with Unity projects</td>
-    </tr>
-    <tr>
+      <td> </td>
+      <td> </td>
       <td>MySQL</td>
-      <td>Minor experience with creating and querying databases</td>
-    </tr>
-    <tr>
-      <td>Jupyter Notebook</td>
-      <td>Used for machine learning and other computational documents</td>
-    </tr>
-    <tr>
-      <td>Trello</td>
-      <td>Used for collaborating and tracking progress for major projects</td>
     </tr>
   </tbody>
 </table>
@@ -256,6 +193,10 @@
     <tr>
       <td>Languages</td>
       <td>English, Filipino, Basic Mandarin Chinese</td>
+    </tr>
+    <tr>
+      <td>Soft Skills</td>
+      <td>Project Management, Adaptability, Creative Thinking, Administrative and Clerical Tasks, Quality Testing</td>
     </tr>
     <tr>
       <td>Interests</td>
@@ -290,5 +231,28 @@
   body {
     background-color: #0e1a2b;
     color: white;
+  }
+
+  table {
+    background-color: #14243a; /* Darker blue for table background */
+    color: white;              /* White text for contrast */
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1rem;
+    border: 1px solid #2c3e50;
+  }
+
+  th, td {
+    border: 1px solid #2c3e50;
+    padding: 12px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #1f2f4a; /* Slightly different shade for headers */
+  }
+
+  tr:nth-child(even) {
+    background-color: #1a273a; /* Optional: zebra stripes */
   }
 </style>
