@@ -152,7 +152,7 @@
     <tr>
       <th colspan="3" style="text-align: center; background-color: #1f2f4a; color: white;">Technical Skills</th>
     </tr>
-    <tr>
+    <tr style="background-color: #283c5fff; color: white;">
       <th>CODING LANGUAGES</th>
       <th>GAME ENGINGES</th>
       <th>OTHER SOFTWARES</th>
@@ -199,7 +199,7 @@
     <tr>
       <th colspan="2" style="text-align: center; background-color: #1f2f4a; color: white;">OTHER INFORMATION</th>
     </tr>
-    <tr>
+    <tr style="background-color: #283c5fff; color: white;">
       <th>Category</th>
       <th>&nbsp;</th>
     </tr>
