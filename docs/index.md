@@ -5,26 +5,14 @@
   }
 
   table {
-    background-color: #14243a; /* Darker blue for table background */
-    color: white;              /* White text for contrast */
-    border-collapse: collapse;
-    width: 100%;
-    margin-bottom: 1rem;
-    border: 1px solid #2c3e50;
+    background-color: #112244; /* dark blue for table bg */
+    color: #fff; /* white text inside tables */
+    border: 1px solid #ffffff33; /* optional: subtle border */
   }
 
   th, td {
-    border: 1px solid #2c3e50;
-    padding: 12px;
-    text-align: left;
-  }
-
-  th {
-    background-color: #1f2f4a; /* Slightly different shade for headers */
-  }
-
-  tr:nth-child(even) {
-    background-color: #1a273a; /* Optional: zebra stripes */
+    border: 1px solid #ffffff33;
+    padding: 8px;
   }
 </style>
 
@@ -188,7 +176,7 @@
     </tr>
     <tr>
       <td>HTML</td>
-      <td> </td>
+      <td>&nbsp;</td>
       <td>AutoCAD</td>
     </tr>
     <tr>
@@ -197,13 +185,13 @@
       <td>3ds Max</td>
     </tr>
     <tr>
-      <td> </td>
-      <td> </td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
       <td>Github</td>
     </tr>
     <tr>
-      <td> </td>
-      <td> </td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
       <td>MySQL</td>
     </tr>
   </tbody>
@@ -218,7 +206,7 @@
     </tr>
     <tr>
       <th>Category</th>
-      <th> </th>
+      <th>&nbsp;</th>
     </tr>
   </thead>
   <tbody>
