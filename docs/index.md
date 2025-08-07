@@ -265,6 +265,12 @@
   </tbody>
 </table>
 
+# Resume
+
+<iframe src="Doc/Kevin Shu Too CV.pdf" width="100%" height="700px" style="border: none;"></iframe>
+
+<br>
+
 # Personal Collection
 ## A treat for making it this far down!
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
