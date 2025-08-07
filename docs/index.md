@@ -11,10 +11,6 @@
 
 <br>
 
-[add this below: <a href="https://github.com/Kenneth2Shu/Portfolio/tree/page" target="_blank">Source Code</a> | ]: #
-[### <strong><a href="#demo-video">Demo Video</a></strong> ]: #
-[<img src="web_img/VoyagAR_Screen.png" width="1900px"/>]: #
-
 ### WHO AM I?
 
 <p align="justify"> Creative and adaptable Game Developer with experience in C#, C++, Unity, and Unreal Engine 5. Experienced and knowledgeable in various game development skills ranging from coding to animation. Seeking to further develop my technical and problem-solving skills. Passionate about creating and developing games people can enjoy and immerse themselves with as well as remember fondly. Even more fond of Transformers, Pokemon, Ben 10, and Arknights. </p>
@@ -23,17 +19,15 @@
 
 ### Education
 *De La Salle University*
-**Senior High School - Science Technology Engineering Math**    (2017 - 2019)
+ - **Senior High School - Science Technology Engineering Math**    (2017 - 2019)
 
 *De La Salle University*
-**BS Interactive Entertainment Technologies**    (2019 - current)
-Major: Game Development
+ - **BS Interactive Entertainment Technologies**    (2019 - current)
+ - Major: Game Development
 
 <br>
 
 ### Academic Projects
-
-<br>
 
 ### Previews
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
@@ -46,7 +40,7 @@ Major: Game Development
 
 <br>
 
-##Semester Saga by More Boullets Studios  (2023 - 2024)
+## Semester Saga by More Boullets Studios  (2023 - 2024)
 **Role**: Engineer
  - Worked on developing a school-based RPG game as an engineer and programmer
  - Created and assisted with minigames
@@ -61,7 +55,7 @@ Major: Game Development
 
 <br>
 
-##Farming Sim  (2024)
+## Farming Sim  (2024)
 **Role**: Engineer
  - Worked on a farming simulation game for a info management class that uses databases
  - Worked on the UI and inventory system
@@ -73,7 +67,7 @@ Major: Game Development
 
 <br>
 
-##What Lurks In The Dark  (2025)
+## What Lurks In The Dark  (2025)
 **Role**: Engineer
  - Created a 3D sidescroller horror game in Unity set in a school campus with monsters as part of a team
  - Worked on coding the trap and enemy behaviors, scene designs, and team management
@@ -86,7 +80,7 @@ Major: Game Development
 
 <br>
 
-##Astro Shork   (2025)
+## Astro Shork   (2025)
 **Role**: Engineer
  - Assisted the team in creating a top-down Vampire Survivors like game of a shark fighting against creatures and asteroids
  - Worked on the enemy and bullet scripting
@@ -97,7 +91,7 @@ Major: Game Development
 <br>
 
 ### Previous Work Experience
-##DLSU GAME Lab   (2025)
+## DLSU GAME Lab   (2025)
 **Role**: Intern and Lead Engineer
  - Worked on developing an in-house game engine
  - Worked on an AR mobile application as well as conducted user testing
