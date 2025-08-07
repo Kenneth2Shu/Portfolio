@@ -150,7 +150,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="3" style="text-align: center; background-color: #1f2f4a; color: white;">Technical Skills</th>
+      <th colspan="3" style="text-align: center; background-color: #1f2f4a; color: black;">Technical Skills</th>
     </tr>
     <tr>
       <th>CODING LANGUAGES</th>
@@ -197,7 +197,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="2" style="text-align: center; background-color: #1f2f4a; color: white;">OTHER INFORMATION</th>
+      <th colspan="2" style="text-align: center; background-color: #1f2f4a; color: black;">OTHER INFORMATION</th>
     </tr>
     <tr>
       <th>Category</th>
