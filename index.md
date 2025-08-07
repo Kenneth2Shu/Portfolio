@@ -5,10 +5,10 @@
 
 <br>
 
-### CERTIFICATIONS
+### <center> CERTIFICATIONS
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 5px;">
-  <img src="web_imgs/unity-essentials-pathway.png" style="width: 33%;" alt="Logo 1"/>
-  <img src="web_imgs/unity-junior-programmer.png" style="width: 33%;" alt="Logo 2"/>
+  <img src="docs/web_imgs/unity-essentials-pathway.png" style="width: 45%;" alt="Logo 1"/>
+  <img src="docs/web_imgs/unity-junior-programmer.png" style="width: 45%;" alt="Logo 2"/>
 </div>
 
 <br>
@@ -24,7 +24,7 @@
 [### Demo Video
 <center>
 <video width="800" controls>
-  <source src="../Unreal Engine/Landscaping/Outdoor/Outdoor Landscaping.mp4" type="video/mp4">
+  <source src="Unreal Engine/Landscaping/Outdoor/Outdoor Landscaping.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 </center>]: #
@@ -47,10 +47,10 @@ Major: Game Development
 
 ### Previews
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="../Unity/Semester Saga/Semester_Saga.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 1">
-  <img src="../Unity/Farm Game/Screenshot 2024-12-02 225930.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 2">
-  <img src="../Unity/What Lurks In The Dark/502594295_29950541991228094_8208055458950320918_n.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 3">
-  <img src="../Unity/Astro Shork/astro_shork_icon.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 4">
+  <img src="Unity/Semester Saga/Semester_Saga.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 1">
+  <img src="Unity/Farm Game/Screenshot 2024-12-02 225930.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 2">
+  <img src="Unity/What Lurks In The Dark/502594295_29950541991228094_8208055458950320918_n.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 3">
+  <img src="Unity/Astro Shork/astro_shork_icon.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 4">
   <!-- Add more images as needed -->
 </div>
 
@@ -64,9 +64,9 @@ Major: Game Development
  - Created, worked on, and assisted with various scripts and components that affect game mechanics like in-game stats, time, event systems, and animations
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <video src="../Unity/Semester Saga/Semester Saga Short Gameplay Video.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
-  <video src="../Unity/Semester Saga/Animation Clip.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
-  <video src="../Unity/Semester Saga/Minigame Clip.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/Semester Saga/Semester Saga Short Gameplay Video.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/Semester Saga/Animation Clip.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/Semester Saga/Minigame Clip.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
 </div>
 
 <br>
@@ -78,7 +78,7 @@ Major: Game Development
  - Makes use of Unity and MySQL
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <video src="../Unity/Farm Game/Farm Game.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/Farm Game/Farm Game.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
 </div>
 
 <br>
@@ -90,8 +90,8 @@ Major: Game Development
  - Itch.io link: <a href="https://hollowscapemedia.itch.io/what-lurks-in-the-dark" target="_blank">What Lurks In The Dark</a> <br>
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <video src="../Unity/What Lurks In The Dark/Gameplay.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
-  <video src="../Unity/What Lurks In The Dark/Teaser.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/What Lurks In The Dark/Gameplay.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/What Lurks In The Dark/Teaser.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
 </div>
 
 <br>
@@ -102,7 +102,7 @@ Major: Game Development
  - Worked on the enemy and bullet scripting
  - Itch.io link: <a href="https://finalspeedz.itch.io/astro-shork" target="_blank">Astro Shork</a> <br>
 
-<img src="../Unity/Astro Shork/astro_shork_icon.jpg" width="600px"/>
+<img src="Unity/Astro Shork/astro_shork_icon.jpg" width="600px"/>
 
 <br>
 
@@ -114,8 +114,8 @@ Major: Game Development
  - Handle management tasks and organization of files
  - Link to: <a href="https://www.facebook.com/DLSUGAMELab" target="_blank">Facebook Page</a> <br>
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="web_imgs/Gamelab_logo.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 1">
-  <img src="web_imgs/523839336_1250226256894412_7717738461423689106_n.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 2">
+  <img src="docs/web_imgs/Gamelab_logo.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 1">
+  <img src="docs/web_imgs/523839336_1250226256894412_7717738461423689106_n.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 2">
 </div>
 
 <br>
@@ -123,20 +123,22 @@ Major: Game Development
 ### TECHNICAL SKILLS
 ## Preview
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="../Unreal Engine/Landscaping/Lighting/Screenshot 2024-11-25 173002.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 1">
-  <img src="../Unreal Engine/Landscaping/Screenshot 2024-02-29 113412.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 2">
-  <img src="../Unreal Engine/Landscaping/Materials/Screenshot 2024-04-09 164416.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 3">
-  <img src="../Unreal Engine/Landscaping/Outdoor/Screenshot 2024-09-26 120702.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 4">
-  <img src="../Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132446.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 5">
+  <img src="Unreal Engine/Landscaping/Lighting/Screenshot 2024-11-25 173002.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 1">
+  <img src="Unreal Engine/Landscaping/Screenshot 2024-02-29 113424.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 2">
+  <img src="Unreal Engine/Landscaping/Materials/Screenshot 2024-04-09 164416.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 3">
+  <img src="Unreal Engine/Landscaping/Outdoor/Screenshot 2024-09-26 120702.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 4">
+  <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132446.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 5">
+  <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132456.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 5">
+  <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132617.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 5">
   <!-- Add more images as needed -->
 </div>
 
 ## Clips
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <video src="../Unity/AR/AR Tower Defense Prototype.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
-  <video src="../Unity/Semester Saga/Minigame Clip.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
-  <video src="../Unreal Engine/Landscaping/Outdoor/Outdoor Landscaping.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
-  <video src="../Unity/What Lurks In The Dark/Teaser.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/AR/AR Tower Defense Prototype.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/Semester Saga/Minigame Clip.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unreal Engine/Landscaping/Outdoor/Outdoor Landscaping.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/What Lurks In The Dark/Teaser.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
   <!-- Add more images as needed -->
 </div>
 
@@ -282,9 +284,9 @@ Major: Game Development
 
 ## Personal Collection
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="web_imgs/1000119445.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Optimus Prime - Blokees Action Edition 1">
-  <img src="web_imgs/1000119449.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Bumblebee - Dark of the Moon Cyberfire">
-  <img src="web_imgs/1000119450.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Soundwave + Laserbeak - Fall of Cybertron 2011">
-  <img src="web_imgs/1000119447.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Lockdown Custom Animated - Legacy Evolution + Earthrise">
-  <img src="web_imgs/1000119448.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Alicon - Earthrise">
+  <img src="docs/web_imgs/1000119445.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Optimus Prime - Blokees Action Edition 1">
+  <img src="docs/web_imgs/1000119449.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Bumblebee - Dark of the Moon Cyberfire">
+  <img src="docs/web_imgs/1000119450.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Soundwave + Laserbeak - Fall of Cybertron 2011">
+  <img src="docs/web_imgs/1000119447.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Lockdown Custom Animated - Legacy Evolution + Earthrise">
+  <img src="docs/web_imgs/1000119448.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Alicon - Earthrise">
 </div>
