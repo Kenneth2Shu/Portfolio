@@ -189,11 +189,6 @@
       <td>&nbsp;</td>
       <td>Github</td>
     </tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>MySQL</td>
-    </tr>
   </tbody>
 </table>
 
