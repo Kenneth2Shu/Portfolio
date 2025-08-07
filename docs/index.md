@@ -216,7 +216,7 @@
     </tr>
     <tr>
       <td>Soft Skills</td>
-      <td>Project Management, Adaptability, Creative Thinking, Administrative and Clerical Tasks, Quality Testing</td>
+      <td>Project Management, Adaptability, Creative Thinking, Administrative Tasks, Quality Testing</td>
     </tr>
     <tr>
       <td>Design Skills</td>
