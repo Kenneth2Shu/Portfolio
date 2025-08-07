@@ -1,3 +1,33 @@
+<style>
+  body {
+    background-color: #0e1a2b;
+    color: white;
+  }
+
+  table {
+    background-color: #14243a; /* Darker blue for table background */
+    color: white;              /* White text for contrast */
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 1rem;
+    border: 1px solid #2c3e50;
+  }
+
+  th, td {
+    border: 1px solid #2c3e50;
+    padding: 12px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #1f2f4a; /* Slightly different shade for headers */
+  }
+
+  tr:nth-child(even) {
+    background-color: #1a273a; /* Optional: zebra stripes */
+  }
+</style>
+
 # <center> Kevin Shu Too
 ### <center>Contact thru: kevin_l_shutoo@dlsu.edu.ph</center>
 
@@ -74,7 +104,7 @@
  - Itch.io link: <a href="https://hollowscapemedia.itch.io/what-lurks-in-the-dark" target="_blank">What Lurks In The Dark</a> <br>
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="web_imgs/unity-essentials-pathway.png" style="width: auto; height: 400px; margin-right: 10px; display: inline-block;" alt="Logo 1"/>
+  <img src="Unity/What Lurks In The Dark/502594295_29950541991228094_8208055458950320918_n.jpg" style="width: auto; height: 400px; margin-right: 10px; display: inline-block;" alt="Logo 1"/>
   <video src="Unity/What Lurks In The Dark/Gameplay.mp4" controls style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"></video>
   <video src="Unity/What Lurks In The Dark/Teaser.mp4" controls style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"></video>
 </div>
@@ -93,15 +123,16 @@
 
 ## Previous Work Experience
 
-<img src="web_imgs/Gamelab_logo.jpg" width="400px"/>
-
 ### DLSU GAME Lab   (2025)
 **Role**: Intern and Lead Engineer
  - Worked on developing an in-house game engine
  - Worked on an AR mobile application as well as conducted user testing
  - Handle management tasks and organization of files
  - Link to: <a href="https://www.facebook.com/DLSUGAMELab" target="_blank">Facebook Page</a> <br>
-<img src="web_imgs/523839336_1250226256894412_7717738461423689106_n.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 2">
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
+<img src="web_imgs/Gamelab_logo.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block; vertical-align: middle;"/>
+  <img src="web_imgs/523839336_1250226256894412_7717738461423689106_n.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 2">
+</div>
 
 <br>
 
@@ -131,7 +162,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="2" style="text-align: center;">Technical Skills</th>
+      <th colspan="3" style="text-align: center;">Technical Skills</th>
     </tr>
     <tr>
       <th>CODING LANGUAGES</th>
@@ -227,33 +258,3 @@
   <img src="web_imgs/1000119447.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="4" title="Lockdown Custom Animated - Legacy Evolution + Earthrise">
   <img src="web_imgs/1000119448.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="5" title="Alicon - Earthrise">
 </div>
-
-<style>
-  body {
-    background-color: #0e1a2b;
-    color: white;
-  }
-
-  table {
-    background-color: #14243a; /* Darker blue for table background */
-    color: white;              /* White text for contrast */
-    border-collapse: collapse;
-    width: 100%;
-    margin-bottom: 1rem;
-    border: 1px solid #2c3e50;
-  }
-
-  th, td {
-    border: 1px solid #2c3e50;
-    padding: 12px;
-    text-align: left;
-  }
-
-  th {
-    background-color: #1f2f4a; /* Slightly different shade for headers */
-  }
-
-  tr:nth-child(even) {
-    background-color: #1a273a; /* Optional: zebra stripes */
-  }
-</style>
