@@ -147,10 +147,10 @@
 
 <br>
 
-<table>
+<table style="margin: 0 auto;">
   <thead>
     <tr>
-      <th colspan="3" style="text-align: center; background-color: #1f2f4a; color: black;">Technical Skills</th>
+      <th colspan="3" style="text-align: center; background-color: #1f2f4a; color: white;">Technical Skills</th>
     </tr>
     <tr>
       <th>CODING LANGUAGES</th>
@@ -159,32 +159,32 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="background-color: #1f2f4a; color: white;">
       <td>C#</td>
       <td>Unity</td>
       <td>Visual Studio Code</td>
     </tr>
-    <tr>
+    <tr style="background-color: #283c5fff; color: white;">
       <td>C++</td>
       <td>Unreal Engine</td>
       <td>Visual Studio</td>
     </tr>
-    <tr>
+    <tr style="background-color: #1f2f4a; color: white;">
       <td>C</td>
       <td>Godot</td>
       <td>GIMP & Photoshop</td>
     </tr>
-    <tr>
+    <tr style="background-color: #283c5fff; color: white;">
       <td>HTML</td>
       <td>&nbsp;</td>
       <td>AutoCAD</td>
     </tr>
-    <tr>
+    <tr style="background-color: #1f2f4a; color: white;">
       <td>Python</td>
       <td> </td>
       <td>3ds Max</td>
     </tr>
-    <tr>
+    <tr style="background-color: #283c5fff; color: white;">
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>Github</td>
@@ -197,7 +197,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="2" style="text-align: center; background-color: #1f2f4a; color: black;">OTHER INFORMATION</th>
+      <th colspan="2" style="text-align: center; background-color: #1f2f4a; color: white;">OTHER INFORMATION</th>
     </tr>
     <tr>
       <th>Category</th>
@@ -205,15 +205,15 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr style="background-color: #1f2f4a; color: white;">
       <td>Languages</td>
       <td>English, Filipino, Basic Mandarin Chinese</td>
     </tr>
-    <tr>
+    <tr style="background-color: #283c5fff; color: white;">
       <td>Soft Skills</td>
       <td>Project Management, Adaptability, Creative Thinking, Administrative Tasks, Quality Testing</td>
     </tr>
-    <tr>
+    <tr style="background-color: #1f2f4a; color: white;">
       <td>Design Skills</td>
       <td>Creative writing, Story + Narrative, Level Design, Logo + Icon Design, UI</td>
     </tr>
