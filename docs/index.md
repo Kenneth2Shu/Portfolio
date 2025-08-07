@@ -130,7 +130,7 @@
  - Handle management tasks and organization of files
  - Link to: <a href="https://www.facebook.com/DLSUGAMELab" target="_blank">Facebook Page</a> <br>
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-<img src="web_imgs/Gamelab_logo.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block; vertical-align: middle;"/>
+<img src="web_imgs/Gamelab_logo.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;"/>
   <img src="web_imgs/523839336_1250226256894412_7717738461423689106_n.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 2">
 </div>
 
@@ -139,14 +139,14 @@
 # TECHNICAL SKILLS
 ## Preview
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="Unreal Engine/Landscaping/Lighting/Screenshot 2024-11-25 173002.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 1">
-  <img src="Unreal Engine/Landscaping/Screenshot 2024-02-29 113424.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 2">
-  <img src="Unreal Engine/Landscaping/Materials/Screenshot 2024-04-09 164416.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 3">
-  <img src="Unreal Engine/Landscaping/Outdoor/Screenshot 2024-09-26 120702.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 4">
-  <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132446.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 5">
-  <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132456.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 6">
-  <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132617.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 7">
-  <img src="Unity/Mobile RPG Game/Hut Scene.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 8">
+  <img src="Unreal Engine/Landscaping/Lighting/Screenshot 2024-11-25 173002.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 1">
+  <img src="Unreal Engine/Landscaping/Screenshot 2024-02-29 113424.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 2">
+  <img src="Unreal Engine/Landscaping/Materials/Screenshot 2024-04-09 164416.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 3">
+  <img src="Unreal Engine/Landscaping/Outdoor/Screenshot 2024-09-26 120702.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 4">
+  <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132446.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 5">
+  <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132456.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 6">
+  <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132617.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 7">
+  <img src="Unity/Mobile RPG Game/Hut Scene.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 8">
   <!-- Add more images as needed -->
 </div>
 
@@ -162,7 +162,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="3" style="text-align: center;">Technical Skills</th>
+      <th colspan="3" style="text-align: center; background-color: #1f2f4a; color: white;">Technical Skills</th>
     </tr>
     <tr>
       <th>CODING LANGUAGES</th>
@@ -214,7 +214,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="2" style="text-align: center;">OTHER INFORMATION</th>
+      <th colspan="2" style="text-align: center; background-color: #1f2f4a; color: white;">OTHER INFORMATION</th>
     </tr>
     <tr>
       <th>Category</th>
