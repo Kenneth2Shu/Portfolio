@@ -31,10 +31,10 @@
 
 ### Previews
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="Unity/Semester Saga/Semester_Saga.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 1">
-  <img src="Unity/Farm Game/Screenshot 2024-12-02 225930.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 2">
-  <img src="Unity/What Lurks In The Dark/502594295_29950541991228094_8208055458950320918_n.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 3">
-  <img src="Unity/Astro Shork/astro_shork_icon.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 4">
+  <img src="Unity/Semester Saga/Semester_Saga.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 1">
+  <img src="Unity/Farm Game/Screenshot 2024-12-02 225930.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 2">
+  <img src="Unity/What Lurks In The Dark/502594295_29950541991228094_8208055458950320918_n.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 3">
+  <img src="Unity/Astro Shork/astro_shork_icon.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 4">
   <!-- Add more images as needed -->
 </div>
 
@@ -48,9 +48,9 @@
  - Created, worked on, and assisted with various scripts and components that affect game mechanics like in-game stats, time, event systems, and animations
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <video src="Unity/Semester Saga/Semester Saga Short Gameplay Video.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
-  <video src="Unity/Semester Saga/Animation Clip.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
-  <video src="Unity/Semester Saga/Minigame Clip.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/Semester Saga/Semester Saga Short Gameplay Video.mp4" controls style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/Semester Saga/Animation Clip.mp4" controls style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"></video>
+  <video src="Unity/Semester Saga/Minigame Clip.mp4" controls style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"></video>
 </div>
 
 <br>
@@ -115,6 +115,7 @@
   <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132446.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 5">
   <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132456.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 6">
   <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132617.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 7">
+  <img src="Unity/Mobile RPG Game/Hut Scene.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 8">
   <!-- Add more images as needed -->
 </div>
 
@@ -152,7 +153,7 @@
     <tr>
       <td>C</td>
       <td>Godot</td>
-      <td>GIMP</td>
+      <td>GIMP & Photoshop</td>
     </tr>
     <tr>
       <td>HTML</td>
@@ -167,7 +168,7 @@
     <tr>
       <td> </td>
       <td> </td>
-      <td>Photoshop</td>
+      <td>Github</td>
     </tr>
     <tr>
       <td> </td>
@@ -199,8 +200,8 @@
       <td>Project Management, Adaptability, Creative Thinking, Administrative and Clerical Tasks, Quality Testing</td>
     </tr>
     <tr>
-      <td>Interests</td>
-      <td>Creative writing, Video games, Gunpla and modeling, Comics and manga, Cosplay</td>
+      <td>Design Skills</td>
+      <td>Creative writing, Story + Narrative, Level Design, Logo + Icon Design, UI</td>
     </tr>
   </tbody>
 </table>
