@@ -3,7 +3,13 @@
 
 <br>
 
-### <center> CERTIFICATIONS
+## WHO AM I?
+
+<p align="justify"> Creative and adaptable Game Developer with experience in C#, C++, Unity, and Unreal Engine 5. Experienced and knowledgeable in various game development skills ranging from coding to animation. Seeking to further develop my technical and problem-solving skills. Passionate about creating and developing games people can enjoy and immerse themselves with as well as remember fondly. Even more fond of Transformers, Pokemon, Ben 10, and Arknights. </p>
+
+<br>
+
+# <center> CERTIFICATIONS
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 5px;">
   <img src="web_imgs/unity-essentials-pathway.png" style="width: 45%;" alt="Logo 1"/>
   <img src="web_imgs/unity-junior-programmer.png" style="width: 45%;" alt="Logo 2"/>
@@ -11,13 +17,7 @@
 
 <br>
 
-### WHO AM I?
-
-<p align="justify"> Creative and adaptable Game Developer with experience in C#, C++, Unity, and Unreal Engine 5. Experienced and knowledgeable in various game development skills ranging from coding to animation. Seeking to further develop my technical and problem-solving skills. Passionate about creating and developing games people can enjoy and immerse themselves with as well as remember fondly. Even more fond of Transformers, Pokemon, Ben 10, and Arknights. </p>
-
-<br>
-
-### Education
+# Education
 *De La Salle University*
  - **Senior High School - Science Technology Engineering Math**    (2017 - 2019)
 
@@ -27,7 +27,7 @@
 
 <br>
 
-### Academic Projects
+# Academic Projects
 
 ### Previews
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
@@ -90,8 +90,8 @@
 
 <br>
 
-### Previous Work Experience
-## DLSU GAME Lab   (2025)
+## Previous Work Experience
+### DLSU GAME Lab   (2025)
 **Role**: Intern and Lead Engineer
  - Worked on developing an in-house game engine
  - Worked on an AR mobile application as well as conducted user testing
@@ -104,7 +104,7 @@
 
 <br>
 
-### TECHNICAL SKILLS
+# TECHNICAL SKILLS
 ## Preview
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
   <img src="Unreal Engine/Landscaping/Lighting/Screenshot 2024-11-25 173002.png" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="Image 1">
@@ -122,8 +122,6 @@
   <video src="Unity/AR/AR Tower Defense Prototype.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
   <video src="Unity/Semester Saga/Minigame Clip.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
   <video src="Unreal Engine/Landscaping/Outdoor/Outdoor Landscaping.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
-  <video src="Unity/What Lurks In The Dark/Teaser.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
-  <!-- Add more images as needed -->
 </div>
 
 <br>
@@ -250,7 +248,7 @@
       <th colspan="2" style="text-align: center;">OTHER INFORMATION</th>
     </tr>
     <tr>
-      <th> </th>
+      <th>Category</th>
       <th> </th>
     </tr>
   </thead>
@@ -266,8 +264,8 @@
   </tbody>
 </table>
 
-## Personal Collection
-# A treat for making it this far down!
+# Personal Collection
+## A treat for making it this far down!
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
   <img src="web_imgs/1000119445.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="1" title="Optimus Prime - Blokees Action Edition 1">
   <img src="web_imgs/1000119449.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="2" title="Bumblebee - Dark of the Moon Cyberfire">
