@@ -1,7 +1,8 @@
 # <center> Kevin Shu Too
 ### <center>Contact thru: kevin_l_shutoo@dlsu.edu.ph</center>
-### [LinkedIn Profile](https://www.linkedin.com/in/kevin-shu-too-b776b233b/)
-<p align="center"><a href="https://www.linkedin.com/in/kevin-shu-too-b776b233b/" target="_blank">LinkedIn Profile</a></p>
+<h3 style="text-align: center;">
+  <a href="https://www.linkedin.com/in/kevin-shu-too-b776b233b/" target="_blank">LinkedIn Profile</a>
+</h3>
 
 <br>
 
