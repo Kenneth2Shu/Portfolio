@@ -1,8 +1,6 @@
 # <center> Kevin Shu Too
 ### <center>Contact thru: kevin_l_shutoo@dlsu.edu.ph</center>
 
-<!-- <center><img src="web_img/anito_voyagar_logo.png" width="500"></center> -->
-
 <br>
 
 ### <center> CERTIFICATIONS
@@ -20,14 +18,6 @@
 ### WHO AM I?
 
 <p align="justify"> Creative and adaptable Game Developer with experience in C#, C++, Unity, and Unreal Engine 5. Experienced and knowledgeable in various game development skills ranging from coding to animation. Seeking to further develop my technical and problem-solving skills. Passionate about creating and developing games people can enjoy and immerse themselves with as well as remember fondly. Even more fond of Transformers, Pokemon, Ben 10, and Arknights. </p>
-
-[### Demo Video
-<center>
-<video width="800" controls>
-  <source src="Unreal Engine/Landscaping/Outdoor/Outdoor Landscaping.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</center>]: #
 
 <br>
 
