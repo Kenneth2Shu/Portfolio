@@ -113,9 +113,9 @@
 
 ### DLSU GAME Lab   (2025)
 **Role**: Intern and Lead Engineer
- - Worked on developing an in-house game engine
- - Worked on an AR mobile application as well as conducted user testing
- - Handle management tasks and organization of files
+ - Worked on developing and programming desktop and mobile applications for research
+ - Conducted user testing for applications
+ - Handle management and administrative tasks
  - Link to: <a href="https://www.facebook.com/DLSUGAMELab" target="_blank">Facebook Page</a> <br>
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
 <img src="web_imgs/Gamelab_logo.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;"/>
