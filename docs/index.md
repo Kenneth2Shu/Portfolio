@@ -22,7 +22,6 @@
 
 # <center> Kevin Shu Too
 ### <center>Contact thru: kevinshuthree@gmail.com</center>
-/* ### <center>Contact thru: kevin_l_shutoo@dlsu.edu.ph</center> */
 
 <br>
 
