@@ -4,16 +4,21 @@
     color: white;
   }
 
+  .markdown-body table,
+  main table,
+  article table,
+  section table,
   table {
-    background-color: #112244; /* dark blue for table bg */
-    color: #fff; /* white text inside tables */
-    border: 1px solid #ffffff33; /* optional: subtle border */
-    margin: 20px auto; /* center tables */
-    width: 80%; /* make tables wider and uniform */
-    border-collapse: collapse; /* cleaner borders */
+    display: table !important;          /* undo display:block */
+    width: 100% !important;             /* fill the container */
+    margin: 20px auto !important;       /* center horizontally */
+    border-collapse: collapse !important;
+    background-color: #112244;
+    color: #fff;
+    border: 1px solid #ffffff33;
   }
 
-  th, td {
+  .markdown-body th, .markdown-body td, th, td {
     border: 1px solid #ffffff33;
     padding: 8px;
     text-align: center;
@@ -151,7 +156,7 @@
 
 <br>
 
-<table style="margin: 0 auto;">
+<table>
   <thead>
     <tr>
       <th colspan="3" style="text-align: center; background-color: #1f2f4a; color: white;">Technical Skills</th>
