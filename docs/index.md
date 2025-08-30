@@ -32,11 +32,12 @@
 
 ## WHO AM I?
 
-<p align="justify">
-  - Creative and adaptable Game Developer with experience in C#, C++, Unity, and Unreal Engine 5.
-  - Experienced and knowledgeable in various game development skills ranging from coding to animation. Seeking to further develop my technical and problem-solving skills.
-  - Passionate about creating and developing games people can enjoy and immerse themselves with as well as remember fondly.
-  - Even more passionate about Transformers, Pokemon, Ben 10, and Arknights. </p>
+<ul style="text-align: justify;">
+  <li>Creative and adaptable Game Developer with experience in C#, C++, Unity, and Unreal Engine 5.</li>
+  <li>Experienced and knowledgeable in various game development skills ranging from coding to animation. Seeking to further develop my technical and problem-solving skills.</li>
+  <li>Passionate about creating and developing games people can enjoy and immerse themselves with as well as remember fondly.</li>
+  <li>Even more passionate about Transformers, Pokemon, Ben 10, and Arknights.</li>
+</ul>
 
 <br>
 
