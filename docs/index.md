@@ -8,16 +8,21 @@
     background-color: #112244; /* dark blue for table bg */
     color: #fff; /* white text inside tables */
     border: 1px solid #ffffff33; /* optional: subtle border */
+    margin: 20px auto; /* center tables */
+    width: 80%; /* make tables wider and uniform */
+    border-collapse: collapse; /* cleaner borders */
   }
 
   th, td {
     border: 1px solid #ffffff33;
     padding: 8px;
+    text-align: center;
   }
 </style>
 
 # <center> Kevin Shu Too
-### <center>Contact thru: kevin_l_shutoo@dlsu.edu.ph</center>
+### <center>Contact thru: kevinshuthree@gmail.com</center>
+/* ### <center>Contact thru: kevin_l_shutoo@dlsu.edu.ph</center> */
 
 <br>
 
@@ -222,12 +227,12 @@
 
 # Resume
 
-<iframe src="Doc/Kevin Shu Too CV.pdf" width="100%" height="700px" style="border: none;"></iframe>
+<iframe src="Doc/Kevin Shu Too - CV.pdf" width="100%" height="700px" style="border: none;"></iframe>
 
 <br>
 
 # Contacts
-### Email: kevin_l_shutoo@dlsu.edu.ph
+### Email: kevinshuthree@gmail.com
 ### Link to my: <a href="https://www.linkedin.com/in/kevin-shu-too-b776b233b/" target="_blank">LinkedIn Profile</a>
 
 <br>
