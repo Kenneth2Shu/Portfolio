@@ -65,7 +65,7 @@
 ### Previews
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
   <img src="Unity/Semester Saga/Semester_Saga.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 1">
-  <img src="Unity/Farm Game/Screenshot 2024-12-02 225930.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 2">
+  <img src="Unity/Curation Curiosity/CurationCuriosity.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 2">
   <img src="Unity/What Lurks In The Dark/502594295_29950541991228094_8208055458950320918_n.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 3">
   <img src="Unity/Astro Shork/astro_shork_icon.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 4">
   </div>
@@ -123,6 +123,11 @@
 - Developed an educational game focused on data curation and mechanics implementation.
 - GitHub Repository: <a href="https://github.com/loldope19/Curation-Curiosity" target="_blank">Curation-Curiosity</a>
 - Itch.io link: <a href="https://loldope19.itch.io/curation-curiosity" target="_blank">Curation Curiosity</a>
+
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
+  <img src="Unity/Curation Curiosity/CurationCuriosity.png" style="width: auto; height: 400px; margin-right: 10px; display: inline-block;" alt="Curation Curiosity Preview"/>
+  <video src="Unity/Curation Curiosity/CurationCuriosity.mp4" controls style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"></video>
+</div>
 
 <br>
 
@@ -247,13 +252,3 @@
 ### Link to my: <a href="https://www.linkedin.com/in/kevin-shu-too-b776b233b/" target="_blank">LinkedIn Profile</a>
 
 <br>
-
-# Personal Collection
-## A treat for making it this far down!
-<div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="web_imgs/1000119445.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="1" title="Optimus Prime - Blokees Action Edition 1">
-  <img src="web_imgs/1000119449.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="2" title="Bumblebee - Dark of the Moon Cyberfire">
-  <img src="web_imgs/1000119450.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="3" title="Soundwave + Laserbeak - Fall of Cybertron 2011">
-  <img src="web_imgs/1000119447.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="4" title="Lockdown Custom Animated - Legacy Evolution + Earthrise">
-  <img src="web_imgs/1000119448.jpg" style="width: 800px; height: auto; margin-right: 10px; display: inline-block;" alt="5" title="Alicon - Earthrise">
-</div>
