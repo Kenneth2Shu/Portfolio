@@ -78,7 +78,7 @@
  - Created and assisted with minigames
  - Created working animations using assets from the arts and design team
  - Created, worked on, and assisted with various scripts and components that affect game mechanics like in-game stats, time, event systems, and animations
- - Project Build: <a href="https://drive.google.com/drive/folders/1okrHnOI2sQgRrplz9Dnf2-Sy_4tCZldm?usp=drive_link" target="_blank">Google Drive Link</a>
+ - Project Build and Source Code: <a href="https://drive.google.com/drive/folders/1okrHnOI2sQgRrplz9Dnf2-Sy_4tCZldm?usp=drive_link" target="_blank">Google Drive Link</a>
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
   <video src="Unity/Semester Saga/Semester Saga Short Gameplay Video.mp4" controls style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"></video>
