@@ -118,9 +118,10 @@
 
 <br>
 
-## Curation Curiosity (2025)
+## Curation Curiosity by Touch Grass Studios (2025)
 **Role**: Engineer
-- Developed an educational game focused on data curation and mechanics implementation.
+- Helped develop an educational supplementary game for 5th graders ollowing the Department of Education (DEPED) MATATAG (MAkabuluhan, TAgos, TApat, at Galing) curriculum focused on analyzing, identifying, and classifying animals.
+- Worked on level design and research, bug fixing, and particle effect system
 - GitHub Repository: <a href="https://github.com/loldope19/Curation-Curiosity" target="_blank">Curation-Curiosity</a>
 - Itch.io link: <a href="https://loldope19.itch.io/curation-curiosity" target="_blank">Curation Curiosity</a>
 
