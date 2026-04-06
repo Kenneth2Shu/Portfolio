@@ -52,10 +52,10 @@
 
 # Education
 *De La Salle University*
- - **Senior High School - Science Technology Engineering Math**    (2017 - 2019)
+ - **Senior High School - Science Technology Engineering Math** (2017 - 2019)
 
 *De La Salle University*
- - **BS Interactive Entertainment Technologies**    (2019 - current)
+ - **BS Interactive Entertainment Technologies** (2019 - current)
  - Major: Game Development
 
 <br>
@@ -68,8 +68,7 @@
   <img src="Unity/Farm Game/Screenshot 2024-12-02 225930.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 2">
   <img src="Unity/What Lurks In The Dark/502594295_29950541991228094_8208055458950320918_n.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 3">
   <img src="Unity/Astro Shork/astro_shork_icon.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 4">
-  <!-- Add more images as needed -->
-</div>
+  </div>
 
 <br>
 
@@ -79,6 +78,7 @@
  - Created and assisted with minigames
  - Created working animations using assets from the arts and design team
  - Created, worked on, and assisted with various scripts and components that affect game mechanics like in-game stats, time, event systems, and animations
+ - Project Build: <a href="https://drive.google.com/drive/folders/1okrHnOI2sQgRrplz9Dnf2-Sy_4tCZldm?usp=drive_link" target="_blank">Google Drive Link</a>
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
   <video src="Unity/Semester Saga/Semester Saga Short Gameplay Video.mp4" controls style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"></video>
@@ -88,22 +88,13 @@
 
 <br>
 
-## Farming Sim  (2024)
-**Role**: Engineer
- - Worked on a farming simulation game for a info management class that uses databases
- - Worked on the UI and inventory system
- - Makes use of Unity and MySQL
-
-<div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <video src="Unity/Farm Game/Farm Game.mp4" controls style="width: 800px; height: auto; margin-right: 10px; display: inline-block;"></video>
-</div>
-
 <br>
 
 ## What Lurks In The Dark  (2025)
 **Role**: Engineer
  - Created a 3D sidescroller horror game in Unity set in a school campus with monsters as part of a team
  - Worked on coding the trap and enemy behaviors, scene designs, and team management
+ - GitHub Repository: <a href="https://github.com/Kenneth2Shu/IEPRFDV-What-Lurks-In-The-Dark" target="_blank">IEPRFDV-What-Lurks-In-The-Dark</a>
  - Itch.io link: <a href="https://hollowscapemedia.itch.io/what-lurks-in-the-dark" target="_blank">What Lurks In The Dark</a> <br>
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
@@ -120,7 +111,18 @@
  - Worked on the enemy and bullet scripting
  - Itch.io link: <a href="https://finalspeedz.itch.io/astro-shork" target="_blank">Astro Shork</a> <br>
 
-<img src="Unity/Astro Shork/astro_shork_icon.jpg" width="400px"/>
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
+  <img src="Unity/Astro Shork/astro_shork_icon.jpg" style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"/>
+  <video src="Unity/Astro Shork/Astro Shork Clip.mp4" controls style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"></video>
+</div>
+
+<br>
+
+## Curation Curiosity (2025)
+**Role**: Engineer
+- Developed an educational game focused on data curation and mechanics implementation.
+- GitHub Repository: <a href="https://github.com/loldope19/Curation-Curiosity" target="_blank">Curation-Curiosity</a>
+- Itch.io link: <a href="https://loldope19.itch.io/curation-curiosity" target="_blank">Curation Curiosity</a>
 
 <br>
 
@@ -150,8 +152,7 @@
   <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132456.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 6">
   <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132617.png" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 7">
   <img src="Unity/Mobile RPG Game/Hut Scene.jpg" style="width: auto; height: 500px; margin-right: 10px; display: inline-block;" alt="Image 8">
-  <!-- Add more images as needed -->
-</div>
+  </div>
 
 ## Clips
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
