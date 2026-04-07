@@ -74,6 +74,7 @@
 
 ## Semester Saga by More Boullets Studios  (2023 - 2024)
 **Role**: Engineer
+ - Unity, C#
  - Worked on developing a school-based RPG game as an engineer and programmer
  - Created and assisted with minigames
  - Created working animations using assets from the arts and design team
@@ -92,8 +93,9 @@
 
 ## What Lurks In The Dark  (2025)
 **Role**: Engineer
+ - Unity, C#
  - Created a 3D sidescroller horror game in Unity set in a school campus with monsters as part of a team
- - Worked on coding the trap and enemy behaviors, scene designs, and team management
+ - Worked on coding the trap and enemy behaviors, scene designs, flashlight mechanics, and team management
  - GitHub Repository: <a href="https://github.com/Kenneth2Shu/IEPRFDV-What-Lurks-In-The-Dark" target="_blank">IEPRFDV-What-Lurks-In-The-Dark</a>
  - Itch.io link: <a href="https://hollowscapemedia.itch.io/what-lurks-in-the-dark" target="_blank">What Lurks In The Dark</a> <br>
 
@@ -107,8 +109,9 @@
 
 ## Astro Shork   (2025)
 **Role**: Engineer
+ - Unity, C#
  - Assisted the team in creating a top-down Vampire Survivors like game of a shark fighting against creatures and asteroids
- - Worked on the enemy and bullet scripting
+ - Worked on the enemy and bullet scripting behaviour
  - Itch.io link: <a href="https://finalspeedz.itch.io/astro-shork" target="_blank">Astro Shork</a> <br>
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
@@ -120,10 +123,11 @@
 
 ## Curation Curiosity by Touch Grass Studios (2025)
 **Role**: Engineer
-- Helped develop an educational supplementary game for 5th graders ollowing the Department of Education (DEPED) MATATAG (MAkabuluhan, TAgos, TApat, at Galing) curriculum focused on analyzing, identifying, and classifying animals.
-- Worked on level design and research, bug fixing, and particle effect system
-- GitHub Repository: <a href="https://github.com/loldope19/Curation-Curiosity" target="_blank">Curation-Curiosity</a>
-- Itch.io link: <a href="https://loldope19.itch.io/curation-curiosity" target="_blank">Curation Curiosity</a>
+ - Unity, C#
+ - Helped develop an educational supplementary game for 5th graders ollowing the Department of Education (DEPED) MATATAG (MAkabuluhan, TAgos, TApat, at Galing) curriculum focused on analyzing, identifying, and classifying animals.
+ - Worked on level design and research, bug fixing, and particle effect system
+ - GitHub Repository: <a href="https://github.com/loldope19/Curation-Curiosity" target="_blank">Curation-Curiosity</a>
+ - Itch.io link: <a href="https://loldope19.itch.io/curation-curiosity" target="_blank">Curation Curiosity</a>
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
   <img src="Unity/Curation Curiosity/CurationCuriosity.png" style="width: auto; height: 400px; margin-right: 10px; display: inline-block;" alt="Curation Curiosity Preview"/>
