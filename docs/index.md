@@ -248,7 +248,7 @@
 
 # Resume
 
-<iframe src="Doc/Kevin Shu Too - CV.pdf" width="100%" height="700px" style="border: none;"></iframe>
+<iframe src="Doc/Resume.pdf" width="100%" height="700px" style="border: none;"></iframe>
 
 <br>
 
