@@ -1,4 +1,9 @@
 <style>
+  /* Custom Cursor: Semi-translucent circle */
+  html {
+    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="10" fill="rgba(255, 255, 255, 0.3)" stroke="white" stroke-width="1.5"/></svg>') 16 16, auto;
+  }
+
   body {
     background-color: #0e1a2b;
     color: white;
@@ -124,7 +129,7 @@
 ## Curation Curiosity by Touch Grass Studios (2025)
 **Role**: Engineer
  - Unity, C#
- - Helped develop an educational supplementary game for 5th graders ollowing the Department of Education (DEPED) MATATAG (MAkabuluhan, TAgos, TApat, at Galing) curriculum focused on analyzing, identifying, and classifying animals.
+ - Helped develop an educational supplementary game for 5th graders following the Department of Education (DEPED) MATATAG curriculum focused on analyzing, identifying, and classifying animals.
  - Worked on level design and research, bug fixing, and particle effect system
  - GitHub Repository: <a href="https://github.com/loldope19/Curation-Curiosity" target="_blank">Curation-Curiosity</a>
  - Itch.io link: <a href="https://loldope19.itch.io/curation-curiosity" target="_blank">Curation Curiosity</a>
@@ -248,7 +253,7 @@
 
 # Resume
 
-<iframe src="Doc/Resume.pdf" width="100%" height="700px" style="border: none;"></iframe>
+<img src="Doc/Resume.png" style="width: 100%; height: auto; border: 1px solid #ffffff33;" alt="Kevin Shu Too - Resume">
 
 <br>
 
