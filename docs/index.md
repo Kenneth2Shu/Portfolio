@@ -60,7 +60,7 @@
  - **Senior High School - Science Technology Engineering Math** (2017 - 2019)
 
 *De La Salle University*
- - **BS Interactive Entertainment Technologies** (2019 - current)
+ - **BS Interactive Entertainment Technologies** (2019 - 2026)
  - Major: Game Development
 
 <br>
@@ -78,8 +78,10 @@
 <br>
 
 ## Semester Saga by More Boullets Studios  (2023 - 2024)
+**Engine:** Unity
+**Language Used:** C#
+**Genre**: School Simulation, Turn-Based Strategy, Roleplaying Game
 **Role**: Engineer
- - Unity, C#
  - Worked on developing a school-based RPG game as an engineer and programmer
  - Created and assisted with minigames
  - Created working animations using assets from the arts and design team
@@ -93,12 +95,13 @@
 </div>
 
 <br>
-
 <br>
 
 ## What Lurks In The Dark  (2025)
+**Engine:** Unity
+**Language Used:** C#
+**Genre**: Horror, 2D Platformer
 **Role**: Engineer
- - Unity, C#
  - Created a 3D sidescroller horror game in Unity set in a school campus with monsters as part of a team
  - Worked on coding the trap and enemy behaviors, scene designs, flashlight mechanics, and team management
  - GitHub Repository: <a href="https://github.com/Kenneth2Shu/IEPRFDV-What-Lurks-In-The-Dark" target="_blank">IEPRFDV-What-Lurks-In-The-Dark</a>
@@ -111,10 +114,13 @@
 </div>
 
 <br>
+<br>
 
 ## Astro Shork   (2025)
+**Engine:** Unity
+**Language Used:** C#
+**Genre:** Arcade
 **Role**: Engineer
- - Unity, C#
  - Assisted the team in creating a top-down Vampire Survivors like game of a shark fighting against creatures and asteroids
  - Worked on the enemy and bullet scripting behaviour
  - Itch.io link: <a href="https://finalspeedz.itch.io/astro-shork" target="_blank">Astro Shork</a> <br>
@@ -124,6 +130,27 @@
   <video src="Unity/Astro Shork/Astro Shork Clip.mp4" controls style="width: auto; height: 400px; margin-right: 10px; display: inline-block;"></video>
 </div>
 
+<br>
+<br>
+
+## Kalu-Cookan  (2025-2026)
+**Engine:** Unity
+**Language Used:** C#
+**Genre: Educational, Cooking**
+**Role: Engineer**
+ - Created a serious educational game where players balance nutrition and accuracy when cooking dishes and working as a nutritionist with a team
+ - Worked on systems that handle player data, recipes, and food items
+ - UI, Tutorial, Minigame, and Level Design
+ - Researched recipes and health as liason with nutritionist experts
+
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
+  <img src="Unity/Kalu-Cookan/Game Logo.png">
+  <img src="Unity/Kalu-Cookan/.Screenshot1.png">
+  <img src="Unity/Kalu-Cookan/.Screenshot2.png">
+  <img src="Unity/Kalu-Cookan/.Screenshot3.png">
+</div>
+
+<br>
 <br>
 
 ## Curation Curiosity by Touch Grass Studios (2025)
