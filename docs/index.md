@@ -92,18 +92,16 @@
     mix-blend-mode: lighten; /* Helps blend white backgrounds into dark themes */
   }
 
-  /* Tables */
-  table {
-    width: 100% !important;
-    border-collapse: collapse !important;
-    background-color: #112244;
-    margin: 20px 0;
+  /* Skills List Styling */
+  .skills-group {
+    margin-bottom: 25px;
   }
-
-  th, td {
-    border: 1px solid #ffffff33;
-    padding: 12px;
-    text-align: center;
+  
+  .skills-group h4 {
+    color: #00d4ff;
+    border-bottom: 1px solid #ffffff33;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
   }
 </style>
 
@@ -222,36 +220,53 @@
   </ul>
 
   <h3>Technical Expertise</h3>
-  <table>
-    <thead>
-      <tr style="background-color: #283c5f;">
-        <th>Coding Languages</th>
-        <th>Game Engines</th>
-        <th>Other Softwares</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td>C#, C++, C</td><td>Unity</td><td>VS Code / Visual Studio</td></tr>
-      <tr><td>Python, HTML</td><td>Unreal Engine 5</td><td>Github / AutoCAD</td></tr>
-      <tr><td>Mandarin (Basic)</td><td>Godot</td><td>GIMP / Photoshop / 3ds Max</td></tr>
-    </tbody>
-  </table>
+  <div class="skills-group">
+    <h4>Coding Languages</h4>
+    <ul>
+      <li>C#, C++, C, Python, HTML</li>
+      <li>Mandarin (Basic Proficiency)</li>
+    </ul>
+  </div>
+
+  <div class="skills-group">
+    <h4>Game Engines</h4>
+    <ul>
+      <li>Unity</li>
+      <li>Unreal Engine 5</li>
+      <li>Godot</li>
+    </ul>
+  </div>
+
+  <div class="skills-group">
+    <h4>Other Softwares</h4>
+    <ul>
+      <li>Visual Studio / VS Code</li>
+      <li>Github / AutoCAD</li>
+      <li>GIMP / Photoshop / 3ds Max</li>
+    </ul>
+  </div>
 
   <h3>Other Information</h3>
-  <table>
-    <tr style="background-color: #283c5f;">
-      <th>Education</th>
-      <td><b>De La Salle University</b> (BS Interactive Entertainment Technologies, 2019 - 2026)</td>
-    </tr>
-    <tr>
-      <th>Soft Skills</th>
-      <td>Project Management, Adaptability, Creative Thinking, Quality Testing</td>
-    </tr>
-    <tr>
-      <th>Design Skills</th>
-      <td>Creative writing, Narrative Design, Level Design, UI/UX</td>
-    </tr>
-  </table>
+  <div class="skills-group">
+    <h4>Education</h4>
+    <ul>
+      <li><b>De La Salle University</b> - BS Interactive Entertainment Technologies (Major in Game Development), 2019 - 2026</li>
+    </ul>
+  </div>
+
+  <div class="skills-group">
+    <h4>Soft Skills</h4>
+    <ul>
+      <li>Project Management, Adaptability, Creative Thinking, Quality Testing</li>
+    </ul>
+  </div>
+
+  <div class="skills-group">
+    <h4>Design Skills</h4>
+    <ul>
+      <li>Creative writing, Narrative Design, Level Design, UI/UX</li>
+    </ul>
+  </div>
 </div>
 
 <hr style="border: 1px solid #ffffff11;">
