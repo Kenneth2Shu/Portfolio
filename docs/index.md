@@ -2,7 +2,8 @@
   /* 1. GLOBAL STYLES & CURSOR */
   html {
     scroll-behavior: smooth;
-    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="10" cy="10" r="9" fill="rgba(255, 255, 255, 0.25)"/><path d="M10 2 V17 L13.5 13.5 L16.5 20.5 L18.5 19.5 L15.5 12.5 H20 Z" fill="white" stroke="black" stroke-width="0.8"/></svg>') 10 2, auto;
+    /* Updated: Circle cx/cy matches the arrow tip at 10,2 */
+    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="10" cy="2" r="10" fill="rgba(255, 255, 255, 0.25)"/><path d="M10 2 V17 L13.5 13.5 L16.5 20.5 L18.5 19.5 L15.5 12.5 H20 Z" fill="white" stroke="black" stroke-width="0.8"/></svg>') 10 2, auto;
   }
 
   body {
@@ -10,7 +11,7 @@
     color: white;
     font-family: sans-serif;
     margin: 0;
-    padding-top: 60px; /* Space for the sticky nav */
+    padding-top: 60px; 
   }
 
   /* 2. STICKY NAVIGATION */
@@ -50,13 +51,24 @@
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    align-items: flex-start;
+    align-items: center; /* Vertical alignment */
     margin-bottom: 30px;
   }
 
   .flex-item {
     flex: 1;
     min-width: 300px;
+  }
+
+  /* Center alignment for the intro text */
+  .intro-text {
+    text-align: center;
+    list-style-position: inside;
+    padding: 0;
+  }
+
+  .intro-text li {
+    margin-bottom: 10px;
   }
 
   /* Image Albums (Horizontal Scroll) */
@@ -74,6 +86,12 @@
     margin-right: 15px;
     border-radius: 4px;
     display: inline-block;
+  }
+
+  /* Unity Certification blending */
+  .cert-img {
+    width: 200px;
+    mix-blend-mode: lighten; /* Helps blend white backgrounds into dark themes */
   }
 
   /* Tables */
@@ -105,12 +123,12 @@
   
   <div class="flex-row">
     <div class="flex-item">
-      <h2>Who Am I?</h2>
-      <ul style="text-align: justify; line-height: 1.6;">
+      <h2 style="text-align: center;">Who Am I?</h2>
+      <ul class="intro-text">
         <li>Creative and adaptable Game Developer with experience in C#, C++, Unity, and Unreal Engine 5.</li>
-        <li>Experienced and knowledgeable in various game development skills ranging from coding to animation.</li>
-        <li>Seeking to further develop my technical and problem-solving skills.</li>
-        <li>Passionate about creating and developing games people can enjoy and remember fondly.</li>
+        <li>Experienced in programming, databases, UI, Scriptable Objects, and animation.</li>
+        <li>Seeking to further develop technical and problem-solving skills.</li>
+        <li>Passionate about creating immersive and memorable games.</li>
         <li>Deeply passionate about Transformers, Pokemon, Ben 10, and Arknights.</li>
       </ul>
     </div>
@@ -120,16 +138,16 @@
   </div>
 
   <h2>Certifications</h2>
-  <div style="display: flex; gap: 10px; margin-bottom: 40px;">
-    <img src="web_imgs/unity-essentials-pathway.png" style="width: 200px;" alt="Unity Essentials"/>
-    <img src="web_imgs/unity-junior-programmer.png" style="width: 200px;" alt="Unity Junior Programmer"/>
+  <div style="display: flex; gap: 20px; margin-bottom: 40px;">
+    <img src="web_imgs/unity-essentials-pathway.png" class="cert-img" alt="Unity Essentials"/>
+    <img src="web_imgs/unity-junior-programmer.png" class="cert-img" alt="Unity Junior Programmer"/>
   </div>
 
   <h2>Showcase Gallery</h2>
   <div class="album-scroll">
     <img src="Unity/Semester Saga/Semester_Saga.png" alt="Saga">
     <img src="Unity/Curation Curiosity/CurationCuriosity.png" alt="Curiosity">
-    <img src="Unity/What Lurks In The Dark/502594295_29950541991228094_8208055458950320918_n.jpg" alt="Horror">
+    <img src="Unity/What Lurks In The Dark/Logo.jpg" alt="Horror">
     <img src="Unity/Astro Shork/astro_shork_icon.jpg" alt="Shork">
     <img src="Unreal Engine/Landscaping/Outdoor/Screenshot 2024-09-26 120702.png" alt="Unreal1">
     <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132446.png" alt="Unreal2">
@@ -148,6 +166,7 @@
     <li><a href="https://drive.google.com/drive/folders/1okrHnOI2sQgRrplz9Dnf2-Sy_4tCZldm?usp=drive_link" target="_blank">View Build & Source</a></li>
   </ul>
   <div class="album-scroll">
+    <img src="Unity/Semester Saga/Semester_Saga.png" alt="Logo">
     <video src="Unity/Semester Saga/Semester Saga Short Gameplay Video.mp4" controls></video>
     <video src="Unity/Semester Saga/Animation Clip.mp4" controls></video>
   </div>
@@ -158,6 +177,10 @@
     <li>Coded enemy behaviors, scene design, and flashlight mechanics.</li>
     <li><a href="https://github.com/Kenneth2Shu/IEPRFDV-What-Lurks-In-The-Dark" target="_blank">GitHub Repo</a> | <a href="https://hollowscapemedia.itch.io/what-lurks-in-the-dark" target="_blank">Itch.io</a></li>
   </ul>
+  <div class="album-scroll">
+    <img src="Unity/What Lurks In The Dark/Banner.jpg" alt="Banner">
+    <video src="Unity/Semester Saga/Animation Clip.mp4" controls></video>
+  </div>
 
   <h3>Astro Shork (2025)</h3>
   <p><b>Role:</b> Engineer | <b>Tech:</b> Unity, C# | <b>Genre:</b> Arcade</p>
@@ -165,6 +188,10 @@
     <li>Enemy and bullet scripting for a Vampire Survivors-like arcade game.</li>
     <li><a href="https://finalspeedz.itch.io/astro-shork" target="_blank">Play on Itch.io</a></li>
   </ul>
+  <div class="album-scroll">
+    <img src="Unity/Astro Shork/banner.jpg" alt="Banner">
+    <video src="Unity/Semester Saga/Animation Clip.mp4" controls></video>
+  </div>
 
   <h3>Kalu-Cookan (2025-2026)</h3>
   <p><b>Role:</b> Engineer | <b>Tech:</b> Unity, C# | <b>Genre:</b> Educational Cooking</p>
