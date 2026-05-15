@@ -3,7 +3,7 @@
   html {
     scroll-behavior: smooth;
     /* Updated: Circle cx/cy matches the arrow tip at 10,2 */
-    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="10" cy="2" r="10" fill="rgba(255, 255, 255, 0.25)"/><path d="M10 2 V17 L13.5 13.5 L16.5 20.5 L18.5 19.5 L15.5 12.5 H20 Z" fill="white" stroke="black" stroke-width="0.8"/></svg>') 10 2, auto;
+    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="10" cy="5" r="9" fill="rgba(255, 255, 255, 0.25)"/><path d="M10 2 V17 L13.5 13.5 L16.5 20.5 L18.5 19.5 L15.5 12.5 H20 Z" fill="white" stroke="black" stroke-width="0.8"/></svg>') 10 2, auto;
   }
 
   body {
