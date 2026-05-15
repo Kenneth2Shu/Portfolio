@@ -1,7 +1,7 @@
 <style>
   /* Custom Cursor: Professional Standard Arrow with a Translucent Halo */
   html {
-    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="10" cy="10" r="9" fill="rgba(255, 255, 255, 0.25)"/><path d="M10 2 V17 L13.5 13.5 L16.5 20.5 L18.5 19.5 L15.5 12.5 H20 Z" fill="white" stroke="black" stroke-width="0.8"/></svg>') 10 2, auto;
+    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 32 32"><circle cx="12" cy="12" r="9" fill="rgba(255, 255, 255, 0.50)"/><path d="M10 2 V17 L13.5 13.5 L16.5 20.5 L18.5 19.5 L15.5 12.5 H20 Z" fill="white" stroke="black" stroke-width="0.8"/></svg>') 10 2, auto;
   }
 
   body {
