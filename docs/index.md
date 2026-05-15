@@ -1,7 +1,7 @@
 <style>
-  /* Custom Cursor: Semi-translucent circle */
+  /* Custom Cursor: Standard arrow with a translucent halo behind it */
   html {
-    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="16" cy="16" r="10" fill="rgba(255, 255, 255, 0.3)" stroke="white" stroke-width="1.5"/></svg>') 16 16, auto;
+    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32"><circle cx="12" cy="12" r="10" fill="rgba(255, 255, 255, 0.3)"/><path d="M12 2l9 15-4 1 4 7-3 2-4-7-4 3z" fill="white" stroke="black" stroke-width="1"/></svg>') 12 2, auto;
   }
 
   body {
@@ -144,10 +144,10 @@
  - Researched recipes and health as liason with nutritionist experts
 
 <div style="overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ccc; border-radius: 8px;">
-  <img src="Unity/Kalu-Cookan/Game Logo.png">
-  <img src="Unity/Kalu-Cookan/.Screenshot1.png">
-  <img src="Unity/Kalu-Cookan/.Screenshot2.png">
-  <img src="Unity/Kalu-Cookan/.Screenshot3.png">
+  <img src="Unity/Kalu-Cookan/Game Logo.png" style="width: auto; height: 400px; margin-right: 10px; display: inline-block;" alt="Kalu-Cookan Logo"/>
+  <img src="Unity/Kalu-Cookan/.Screenshot1.png" style="width: auto; height: 400px; margin-right: 10px; display: inline-block;" alt="Screenshot 1">
+  <img src="Unity/Kalu-Cookan/.Screenshot2.png" style="width: auto; height: 400px; margin-right: 10px; display: inline-block;" alt="Screenshot 2">
+  <img src="Unity/Kalu-Cookan/.Screenshot3.png" style="width: auto; height: 400px; margin-right: 10px; display: inline-block;" alt="Screenshot 3">
 </div>
 
 <br>
