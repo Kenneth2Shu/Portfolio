@@ -145,8 +145,6 @@
     <img src="Unity/Curation Curiosity/CurationCuriosity.png" alt="Curiosity">
     <img src="Unity/What Lurks In The Dark/Logo.jpg" alt="Horror">
     <img src="Unity/Astro Shork/astro_shork_icon.jpg" alt="Shork">
-    <img src="Unreal Engine/Landscaping/Outdoor/Screenshot 2024-09-26 120702.png" alt="Unreal1">
-    <img src="Unreal Engine/Landscaping/Indoor/Screenshot 2024-11-26 132446.png" alt="Unreal2">
   </div>
 </div>
 
