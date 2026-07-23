@@ -191,6 +191,7 @@
   <p><b>Role:</b> Engineer | <b>Tech:</b> Unity, C# | <b>Genre:</b> Educational Cooking</p>
   <ul>
     <li>Researched nutrition and created recipe systems, UI, and level design.</li>
+    <li><a href="https://lac-b26.my.canva.site/kirei-kanri-studios/" target="_blank">Website</a></li>
   </ul>
   <div class="album-scroll">
     <img src="Unity/Kalu-Cookan/Game Logo.png" alt="Logo">
@@ -203,6 +204,10 @@
     <li>Focused on animal classification; handled bug fixing and particle systems.</li>
     <li><a href="https://github.com/loldope19/Curation-Curiosity" target="_blank">GitHub Repo</a> | <a href="https://loldope19.itch.io/curation-curiosity" target="_blank">Itch.io</a></li>
   </ul>
+  <div class="album-scroll">
+    <img src="Unity/Curation Curiosity/CurationCuriosity.png" alt="Logo">
+    <video src="Unity/Curation Curiosity/CurationCuriosity.mp4" constrols></video>
+  </div>
 </div>
 
 <hr style="border: 1px solid #ffffff11;">
